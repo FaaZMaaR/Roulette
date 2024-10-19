@@ -174,7 +174,7 @@ class RoulApp
     }
     public static void Main()
     {
-        Master master = new Master(20, "../../Images/roul.png");
+        Master master = new Master(20, "Images/roul.png");
         Thread uTh = new Thread(() => {
             while (true)
             {
