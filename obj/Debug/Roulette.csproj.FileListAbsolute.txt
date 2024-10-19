@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Programming\MyProgs\C#\VS\Roulette\bin\Debug\Roulette.exe.config
-C:\Users\User\Desktop\Programming\MyProgs\C#\VS\Roulette\bin\Debug\Roulette.exe
-C:\Users\User\Desktop\Programming\MyProgs\C#\VS\Roulette\bin\Debug\Roulette.pdb
-C:\Users\User\Desktop\Programming\MyProgs\C#\VS\Roulette\obj\Debug\Roulette.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Programming\MyProgs\C#\VS\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Programming\MyProgs\C#\VS\Roulette\obj\Debug\Roulette.exe
-C:\Users\User\Desktop\Programming\MyProgs\C#\VS\Roulette\obj\Debug\Roulette.pdb
